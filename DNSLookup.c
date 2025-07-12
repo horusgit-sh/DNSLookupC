@@ -5,7 +5,7 @@
 
 #include <netdb.h>
 
-#include </Users/gjg000/Downloads/NetworkC/hacking.h>
+#include <hacking.h>
 
 int main(int argc, char *argv[]) {
     struct hostent *host_info;
